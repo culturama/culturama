@@ -1,4 +1,4 @@
-## Culturama : SmartGuide to Nusantara 🏛️
+![Culturama (3)](https://github.com/culturama/culturama/assets/153045867/ec6a91ae-ee2d-49c4-bc1d-b80bd466c0cb)## Culturama : SmartGuide to Nusantara 🏛️
 
 Culturama, an innovative mobile application meticulously crafted to elevate and promote the culture and breathtaking tourist destinations within Indonesia. This app stands as an immersive gateway, artfully designed with interactive language and features that offer users a seamless and enriching journey into the heart of Indonesia. At its core, Culturama uses a recommendation system, suggesting content based on users' preferences, providing a comfortable and engaging exploration of Indonesia's rich heritage and lesser-known treasures. Diverging from conventional platforms that spotlight only popular tourist spots, our application proudly showcases and recommends underrated destinations, aspiring to invigorate these locales with an influx of eager travelers. Moreover, Culturama serves as a repository of unique cultural content, such as folk tales, traditional customs, indigenous art forms, mystical narratives, and more. With Culturama, we aim to redefine cultural exploration by offering a holistic and immersive experience, enticing users to embark on a journey of discovery and appreciation for Indonesia's captivating journey.
 
@@ -21,6 +21,17 @@ We are from CH2-PS347. We consist of 7 people and here is a list of our team mem
 ## THEME 🏖️
 
 Tourism Cultural and Hospitality
+
+## Culturama Cloud Computing
+We create APIs using Happi and Flask, where Flask is used to create machine learning APIs. Apart from that, for authentication and authorization, we use JWT. we deploy using the App engine, MySQL on Clod Sql as a database, and a cloud storage bucket to store images.
+
+API Documentation https://documenter.getpostman.com/view/30301448/2s9Ykraf9w
+
+### Cloud Architecture
+![Culturama (3)](https://github.com/culturama/culturama/assets/153045867/13a8c4d8-d534-4cd4-8ec2-7621f9f8c22d)
+
+
+
 
 
 
