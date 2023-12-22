@@ -6,10 +6,14 @@ Culturama, an innovative mobile application meticulously crafted to elevate and 
 ## TEAM
 
 We are from CH2-PS347. We consist of 7 people and here is a list of our team members:
-1. (ML) M200BSY0713 – Muhammad Irfan Rifki – Universitas Diponegoro
-2. (ML) M200BSY1727 – Fedro Dava Ferenzo – Universitas Diponegoro
-3. (ML) M200BSY0195 – Muhammad Rafli – Universitas Diponegoro
-4. (CC) C159BSY4144 – Muhammad Fattaah Al Rasyidin – Universitas Teknologi Digital Indonesia
-5. (CC) C159BSY4245 – Muhammad Arif Yuliantoro – Universitas Teknologi Digital Indonesia
-6. (MD) A159BSX2583 – Septia Bela Pertiwi – Universitas Teknologi Digital Indonesia
-7. (MD) A283BSY2603 - Ariq Fadhil Musyaffa - Universitas Negeri Semarang
+
+
+|                  NAME                   |               STUDENT ID                |       LEARNING PATH         |                     UNIVERSITY              |
+|-----------------------------------------|-----------------------------------------|-----------------------------|---------------------------------------------|
+|          MUHAMMAD IRFAN RIFKI           |              M200BSY0713                |      MACHINE LEARNING       |               UNIVERSITAS DIPONEGORO        |
+|           FEDRO DAVA FERENZO            |              M200BSY1727                |      MACHINE LEARNING       |               UNIVERSITAS DIPONEGORO        |
+|             MUHAMMAD RAFLI              |              M200BSY0195                |      MACHINE LEARNING       |               UNIVERSITAS DIPONEGORO        |
+|        MUHAMMAD FATTAH AL RASYIDIN      |              C159BSY4144                |      CLOUD COMPUTING        |    UNIVERSITAS TEKNOLOGI DIGITAL INDONESIA  |
+|          MUHAMMAD ARIF YULIANTORO       |              C159BSY4245                |      CLOUD COMPUTING        |    UNIVERSITAS TEKNOLOGI DIGITAL INDONESIA  |
+|           SEPTIA BELA PERTIWI           |              A159BSX2583                |      MOBILE DEVELOPMENT     |    UNIVERSITAS TEKNOLOGI DIGITAL INDONESIA  |
+|           ARIQ FADHIL MUSYAFFA          |              A283BSY2603                |      MOBILE DEVELOPMENT     |             UNIVERSITAS NEGERI SEMARANG     |
