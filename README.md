@@ -17,3 +17,11 @@ We are from CH2-PS347. We consist of 7 people and here is a list of our team mem
 |          MUHAMMAD ARIF YULIANTORO       |              C159BSY4245                |      CLOUD COMPUTING        |    UNIVERSITAS TEKNOLOGI DIGITAL INDONESIA  |
 |           SEPTIA BELA PERTIWI           |              A159BSX2583                |      MOBILE DEVELOPMENT     |    UNIVERSITAS TEKNOLOGI DIGITAL INDONESIA  |
 |           ARIQ FADHIL MUSYAFFA          |              A283BSY2603                |      MOBILE DEVELOPMENT     |             UNIVERSITAS NEGERI SEMARANG     |
+
+## THEME
+
+Tourism Cultural and Hospitality
+
+
+
+
