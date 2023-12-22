@@ -30,6 +30,10 @@ API Documentation https://documenter.getpostman.com/view/30301448/2s9Ykraf9w
 ### Cloud Architecture
 ![Culturama (3)](https://github.com/culturama/culturama/assets/153045867/13a8c4d8-d534-4cd4-8ec2-7621f9f8c22d)
 
+### Database Schema
+![Untitled](https://github.com/culturama/culturama/assets/153045867/15eb1665-fbda-4e8c-b51c-1bf36b6e84d8)
+
+
 
 
 
